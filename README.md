@@ -29,3 +29,6 @@ Fichiers obligatoire à chaques nouvel item:
 - models/votre_item.geo.json
 - textures/hotbar/votre_item.png
 - textures/entity/votre_texture.geo.png
+
+
+NB: Il est important d'avoir une bone de nom "rightitem". Cela correspondra à la place de l'item par apport à la main: Voir models/diamond_sword.geo.json
