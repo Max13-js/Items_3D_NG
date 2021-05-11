@@ -1,5 +1,8 @@
 # Items_3D_NG
 
+
+ICI, Une template qui MODIFIE l'épée en diamant pour la mettre en 3D !
+
 La description des fichiers serra ici:
 
 
