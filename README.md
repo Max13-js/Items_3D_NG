@@ -3,6 +3,7 @@
 La description des fichiers serra ici:
 
 
+
 #1 - animation_controllers
 #2- animations
 #3- models 
@@ -25,8 +26,3 @@ Fichiers obligatoire à chaques nouvel item:
 - models/votre_item.geo.json
 - textures/hotbar/votre_item.png
 - textures/entity/votre_texture.geo.png
-
-
-
-
-
