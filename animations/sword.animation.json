@@ -5,7 +5,7 @@
       "loop": true,
       "bones": {
         "rightitem": {
-          "rotation": [ "c.is_first_person ? 175.0 : 0.0", "c.is_first_person ? 55.0 : 0.0", "c.is_first_person ? -35.0 : 0.0" ],
+          "rotation": [ "c.is_first_person ? 175.0 : 0.0", "c.is_first_person ? 55.0 : 0.0", "c.is_first_person ? -35.0 : 0.2" ],
           "position": [ "c.is_first_person ? 1.0 : 0.0", "c.is_first_person ? 1.0 : 0.0", "c.is_first_person ? 1.0 : 0.0" ]
         }
       }
